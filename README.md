@@ -59,4 +59,4 @@ Build a binary classifier using *Logistic Regression* to predict whether a tumor
 
 - *Accuracy*: ~95%
 - *ROC-AUC Score*: > 0.98
-- *Confusion Matrix*:
+- *Confusion Matrix*
